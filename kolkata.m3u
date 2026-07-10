@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="KOLKATA",STAR JALSHA
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 group-title="KOLKATA",COLORS BANGLA
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 group-title="KOLKATA",SONY AATH
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+#EXTINF:-1 group-title="KOLKATA", JALSHA MOVIES
+http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
